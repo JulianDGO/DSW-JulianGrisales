@@ -1,0 +1,25 @@
+header{
+    background-color: #22577A;
+}
+nav{
+    background-color: #57CC99;
+}
+section{
+    background-color: #38A3A5;
+}
+iframe{
+    height: 400px;
+    width: 700px;
+    margin:auto;
+    display:block;
+}
+
+h2{
+    text-align:center;
+}
+footer{
+    background-color: #22577A;
+}
+div{
+    display: grid;
+}
